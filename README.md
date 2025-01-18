@@ -61,5 +61,3 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 For questions or feedback, contact me at:  
 **sherlyangeldev@gmail.com**  
 ```
-
-Replace placeholders like **yourusername**, **Your Email Address**, and add any additional project-specific details. Let me know if you need help with any part of the customization!
