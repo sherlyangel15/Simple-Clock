@@ -1,5 +1,4 @@
 
-```markdown
 # Simple Clock Application  
 
 A simple, multifunctional clock application that combines utility with a touch of fun! This app includes:  
